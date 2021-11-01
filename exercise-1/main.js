@@ -1,6 +1,5 @@
 'use strict';
 
-// You have 2 arrays of integers. Return the total sum of all those integers.
 
 let arr1 = [5, 6, 2, 3, 10];
 
